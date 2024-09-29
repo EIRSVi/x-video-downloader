@@ -43,7 +43,8 @@ pip install yt-dlp colorama pyfiglet
 <p>1. Clone this repository:</p>
 
 ```bash
-git clone https://github.com/eirsvi/x-video-downloader.git
+git clone git@github.com:EIRSVi/x-video-downloader.git
+
 cd x-video-downloader
 ```
 
